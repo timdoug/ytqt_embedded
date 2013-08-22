@@ -33,7 +33,10 @@
 		</dict>
 		<key>Whitelist</key>
 		<array>
-			<string>http://www.youtube.com/*</string>
+			<string>http://*.youtube.com/*</string>
+			<string>http://youtube.com/*</string>
+			<string>https://*.youtube.com/*</string>
+			<string>https://youtube.com/*</string>
 		</array>
 	</dict>
 	<key>ExtensionInfoDictionaryVersion</key>
